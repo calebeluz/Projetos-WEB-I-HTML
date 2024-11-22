@@ -1,4 +1,4 @@
-# CTI-P4-HTML-20242-LISTA
+# CTI-P4-HTML-20242-LISTA01
 
 Este repositório contém as soluções de **7 projetos** sobre **HTML** propostos pelo professor **Thomaz**, da disciplina de **Desenvolvimento Web** no **Campus Maranguape**.
 

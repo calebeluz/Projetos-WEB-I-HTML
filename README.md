@@ -17,17 +17,17 @@ Para executar os projetos, siga os passos abaixo:
 
 2. **Projetos**:
    APRESENTAÇÃO PESSOAL
-   - [Primeiro Projeto](projeto1)<br>
+   -- [Primeiro Projeto](projeto1)<br>
    PORTFÓLIO DE IMAGENS
-   - [Segundo Projeto](projeto2)<br>
+   -- [Segundo Projeto](projeto2)<br>
    PÁGINA DE RECEITAS
-   - [Terceiro Projeto](projeto3)<br>
+   -- [Terceiro Projeto](projeto3)<br>
    SITE PESSOAL
-   - [Quarto Projeto](projeto4)<br>
+   -- [Quarto Projeto](projeto4)<br>
    TABELA DE NOTAS
-   - [Quinto Projeto](projeto5)<br>
+   -- [Quinto Projeto](projeto5)<br>
    ROTEIRO DE VIAGENS
-   - [Sexto Projeto](projeto6)<br>
+   -- [Sexto Projeto](projeto6)<br>
    CADASTRO DE USUÁRIO
-   - [Sétimo Projeto](projeto7)<br>
+   -- [Sétimo Projeto](projeto7)<br>
    

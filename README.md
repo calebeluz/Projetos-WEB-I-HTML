@@ -15,5 +15,5 @@ Para executar os projetos, siga os passos abaixo:
    ```bash
    git clone https://github.com/usuario/repo-cti-p4-html-20242.git
 
-2.**Projetos**:
-   - [primeiro Projeto](primeiro Projeto)
+2. **Projetos**:
+   - [primeiro1](primeiro Projeto)

@@ -16,4 +16,18 @@ Para executar os projetos, siga os passos abaixo:
    git clone https://github.com/usuario/repo-cti-p4-html-20242.git
 
 2. **Projetos**:
-   - [primeiro1](primeiro Projeto)
+   APRESENTAÇÃO PESSOAL
+   - [Primeiro Projeto](projeto1)<br>
+   PORTFÓLIO DE IMAGENS
+   - [Segundo Projeto](projeto2)<br>
+   PÁGINA DE RECEITAS
+   - [Terceiro Projeto](projeto3)<br>
+   SITE PESSOAL
+   - [Quarto Projeto](projeto4)<br>
+   TABELA DE NOTAS
+   - [Quinto Projeto](projeto5)<br>
+   ROTEIRO DE VIAGENS
+   - [Sexto Projeto](projeto6)<br>
+   CADASTRO DE USUÁRIO
+   - [Sétimo Projeto](projeto7)<br>
+   

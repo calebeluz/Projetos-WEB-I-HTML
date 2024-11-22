@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Projeto 7</title>
+  <header>
+    <h1>Cadastro de usuário </h1>
+    <nav>
+      <ul>
+        <li ><a href="/pages/contatos.html">Contato</a></li>
+        <li><a href="/pages/meus_projetos.html">Meus Projetos</a></li>
+        <li><a href="/pages/sobre_mim.html">Sobre mim</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+</head>
+<body>
+  <h2>Formulário</h2>
+  <section>
+    <h3>Nome do usuario:</h3>
+    <form action="/enviar_dados">
+      <label for="nome"></label>
+      <input type="text" id="nome", name="nome">
+      
+      <h3>E-mail:</h3>
+      <label for="email"></label>
+      <input type="email" id="nome" name="email">
+      <h3>Senha:</h3>
+      <label for="senha"></label>
+      <input type="password" id="senha" name="senha">
+      
+      <h3>Genêro:</h3>      
+      <label for="genero"></label>
+      <select>
+        <option></option>
+        <option>Masculino</option>
+        <option>Feminino</option>
+        <option>Prefiro não dizer</option>
+      </select>
+      
+      <h3>Interesses:</h3>
+      <input type="checkbox" id="programacao" name="programacao"> Programacão<br>
+      <input type="checkbox" id="esporte" name="esporte"> Esportes<br>
+      <input type="checkbox" id="ler" name="ler"> Leitura<br>
+      <input type="checkbox" id="musica" name="musica"> Musica<br>
+      <input type="checkbox" id="moda" name="moda" > Moda
+      
+      <h3>Biografia:</h3>
+      <label for="bio"></label>
+      <textarea id=bio name="bio" rows="4" cols="30"></textarea><br>
+      <h4>Enviar dados</h4>
+      <input type="submit">
+      <input type="reset">
+    </form>   
+  </section>
+  
+</body>
+
+</html>

@@ -14,3 +14,6 @@ Para executar os projetos, siga os passos abaixo:
    - Clone ou baixe o repositório em seu computador.
    ```bash
    git clone https://github.com/usuario/repo-cti-p4-html-20242.git
+
+2.**Projetos**:
+   - [projeto1](primeiro Projeto)
